@@ -1,15 +1,16 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa20ydXpubHFrNDAyZDgyMnU2ZDYzcXZjdGFtMGVwcnRwaGJ6Z3FmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="300px" height="300px" />
+</p>
+
 # 💫 About Me:
-# Hi there 👋, I'm <span style="color: blue;">Subhasish </span>I'm a passionate **Front-End Web Developer** with over 3 years of experience.
-designing and building modern, responsive, and interactive web applications. I love turning ideas into pixel-perfect websites and dynamic web experiences.
+# I'm Subhasish , **Front-End Web Developer** with over 3 years of experience. designing and building modern, responsive, and interactive web applications. I love turning ideas into pixel-perfect websites and dynamic web experiences.
 ---
 - 🔭 I’m currently working on **React & Node.js projects**
 - 🌱 I’m continuously learning **advanced animations and 3D web technologies**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, 3D & Web Animations**
 - 📫 How to reach me: [subhasish@gmail.com](mailto:karmakarsubhasish94@gmail.com)
-- ⚡ Fun fact: I love **creating smooth and interactive web experiences**  
-
+- ⚡ Fun fact: I love **creating smooth and interactive web experiences**
 ---
-
 ## 🛠️ Skills & Tools
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
