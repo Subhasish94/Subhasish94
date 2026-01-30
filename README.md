@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa20ydXpubHFrNDAyZDgyMnU2ZDYzcXZjdGFtMGVwcnRwaGJ6Z3FmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="300px" height="300px" />
-</p>
+
+ [ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa20ydXpubHFrNDAyZDgyMnU2ZDYzcXZjdGFtMGVwcnRwaGJ6Z3FmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="3100%" height="200px" />]( https://subhasishkarmakar.page.gd/)
 
 # 💫 About Me:
 # I'm Subhasish , **Front-End Web Developer** with over 3 years of experience. designing and building modern, responsive, and interactive web applications. I love turning ideas into pixel-perfect websites and dynamic web experiences.
@@ -9,7 +8,8 @@
 - 🌱 I’m continuously learning **advanced animations and 3D web technologies**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, 3D & Web Animations**
 - 📫 How to reach me: [subhasish@gmail.com](mailto:karmakarsubhasish94@gmail.com)
-- ⚡ Fun fact: I love **creating smooth and interactive web experiences**
+- ⚡ Fun fact: I love **creating smooth and interactive web experiences**<br>
+[ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa20ydXpubHFrNDAyZDgyMnU2ZDYzcXZjdGFtMGVwcnRwaGJ6Z3FmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px" />]( https://subhasishkarmakar.page.gd/)
 ---
 ## 🛠️ Skills & Tools
 ### Frontend
@@ -22,6 +22,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-%23FFFFFF?style=for-the-badge&logo=three.js&logoColor=black)
+
 ---
 ### Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,6 +31,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
 ---
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -39,11 +41,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+
 ---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Subhasish94&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Subhasish94&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasish94&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dissssss) 
@@ -53,13 +60,14 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/twiterss)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/codepenss)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karmakarsubhasish94@gmail.com) 
+
 ---
 ## 🔭 Projects
 Here are some projects I’ve worked on:
-1. **[Portfolio Website](https://github.com/Subhasish94/portfolio)** - My personal portfolio built with React, Tailwind, and GSAP animations.
-2. **[3D Interactive Web App](https://github.com/Subhasish94/3d-web-app)** - A web experience using Three.js and GSAP.
-3. **[E-commerce Template](https://github.com/Subhasish94/ecommerce-template)** - Responsive Bootstrap + React e-commerce template.
-4. **[Node.js API Project](https://github.com/Subhasish94/node-api)** - Backend REST API built with Node.js and Express.js.
+1. **[Portfolio Website](https://github.com/Subhasish94)** - My personal portfolio built with React, Tailwind, and GSAP animations.
+2. **[3D Interactive Web App](https://github.com/Subhasish94)** - A web experience using Three.js and GSAP.
+3. **[E-commerce Template](https://github.com/Subhasish94)** - Responsive Bootstrap + React e-commerce template.
+4. **[Node.js API Project](https://github.com/Subhasish94)** - Backend REST API built with Node.js and Express.js.
 ---
 “Design is not just what it looks like. Design is how it works.” – Steve Jobs
 ---
